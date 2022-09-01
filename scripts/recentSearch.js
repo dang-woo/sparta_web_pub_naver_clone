@@ -34,9 +34,9 @@ let isRecentSearch = true;
 
 // 최근 검색어 와 날짜를 저장하는 배열
 let recentSearchData = [
-  { search: "스파르타 코딩클럽 웹 퍼블리싱", date: "07.23." },
-  { search: "스파르타 코딩클럽", date: "07.20." },
-  { search: "스파르타 코딩", date: "07.10." },
+  { search: "슈퍼 웹 개발자 김동우", date: "09.02." },
+  { search: "스파르타 코딩클럽", date: "09.02." },
+  { search: "김동우 왔다감.", date: "09.02." },
 ];
 
 // 최근 검색어 리스트(li)를 만드는 함수
